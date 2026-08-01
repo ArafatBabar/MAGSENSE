@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TPS2115ADRBT
+D Autoswitching Power Mux
+K
+F http://www.ti.com/lit/gpn/TPS2115A
+$ENDCMP
+#
+#End Doc Library

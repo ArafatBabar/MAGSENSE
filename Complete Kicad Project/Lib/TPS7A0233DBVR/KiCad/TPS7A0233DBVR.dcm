@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TPS7A0233DBVR
+D LDO Voltage Regulators 200mA nanopower-IQ (25 nA) low-dropout
+K
+F https://www.ti.com/lit/gpn/tps7a02
+$ENDCMP
+#
+#End Doc Library

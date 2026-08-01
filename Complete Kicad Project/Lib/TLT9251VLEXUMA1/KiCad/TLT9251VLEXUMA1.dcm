@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TLT9251VLEXUMA1
+D CAN Interface IC
+K
+F https://www.infineon.com/dgdl/Infineon-TLT9251VLE-DataSheet-v01_00-EN.pdf?fileId=5546d4626e8d4b8f016ea702cfff08e8
+$ENDCMP
+#
+#End Doc Library

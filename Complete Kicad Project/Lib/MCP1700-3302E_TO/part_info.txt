@@ -1,0 +1,9 @@
+Manufacturer=Microchip
+PartNumber=MCP1700-3302E/TO
+PartCategory=Integrated Circuit
+PackageCategory=Other
+PinCount=3
+Version=1.6
+Released=2020-10-28 18:45:32
+Downloaded=2026-03-15 17:11:57
+3D=Y
