@@ -1,7 +1,8 @@
 # MagSense
 
 <p align="center">
-<img src="Docs/Images/Rev2_Render.png" width="750">
+<img src="<img width="948" height="948" alt="IMG_20260801_172536" src="https://github.com/user-attachments/assets/03a3f452-98cc-449e-8f94-f9dfca7dddcd" />
+" width="750">
 </p>
 
 <p align="center">
