@@ -1,7 +1,7 @@
 # MagSense
 
 <p align="center">
-<img src="<img width="948" height="948" alt="IMG_20260801_172536" src="https://github.com/user-attachments/assets/03a3f452-98cc-449e-8f94-f9dfca7dddcd" />
+<img src=""C:\Users\babar\Documents\GitHub\MAGSENSE\Images\IMG_20260801_172536.png"" />
 " width="750">
 </p>
 
