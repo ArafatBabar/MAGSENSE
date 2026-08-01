@@ -1,7 +1,7 @@
 # MagSense
 
 <p align="center">
-<img src="Images/IMG_20260801_172510.png" />
+<img src="Images/IMG_20260801_172536.png" />
 " width="750">
 </p>
 
